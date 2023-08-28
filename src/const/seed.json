@@ -1,0 +1,2372 @@
+[
+  {
+    "security_assessment": [
+      {
+        "id": "645c9170-e25d-487e-bc43-85a044e93855",
+        "assessment_date": "2023-08-27T14:03:57.192Z",
+        "assessment_details": "Vulnerability scan identified potential risks",
+        "created_at": "2023-08-27T15:07:01.469Z",
+        "updated_at": "2023-08-28T05:57:54.018Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e826694-30a5-4162-9d1a-1e3c82e915fe",
+        "assessment_date": "2023-08-27T09:31:46.759Z",
+        "assessment_details": "Penetration testing revealed critical vulnerabilities",
+        "created_at": "2023-08-27T19:42:27.156Z",
+        "updated_at": "2023-08-27T20:28:48.452Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee1ce8bf-b0ec-4653-819a-0995bc90f0d3",
+        "assessment_date": "2023-08-27T09:01:21.184Z",
+        "assessment_details": "Security audit conducted to assess system weaknesses",
+        "created_at": "2023-08-28T08:35:04.571Z",
+        "updated_at": "2023-08-27T09:34:47.513Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ecc0b0b-07ee-4e96-8c4b-8c4c00c6d061",
+        "assessment_date": "2023-08-27T13:18:49.954Z",
+        "assessment_details": "Threat modeling exercise performed to identify potential threats",
+        "created_at": "2023-08-27T12:37:44.157Z",
+        "updated_at": "2023-08-28T03:32:56.427Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e60c90c5-60c6-418b-98d3-4ef881dde706",
+        "assessment_date": "2023-08-27T12:52:04.878Z",
+        "assessment_details": "Code review conducted to identify security flaws",
+        "created_at": "2023-08-27T15:20:41.398Z",
+        "updated_at": "2023-08-27T15:48:48.372Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "d42f942a-d548-4b4a-9b8d-025644b28456",
+        "optimization_date": "2023-08-27T15:53:21.839Z",
+        "optimization_details": "Database query optimization improved response time",
+        "created_at": "2023-08-27T20:50:37.127Z",
+        "updated_at": "2023-08-27T19:59:50.196Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8efce1ff-0e71-47a6-b215-1f29f443d43b",
+        "optimization_date": "2023-08-28T06:59:51.624Z",
+        "optimization_details": "Caching mechanism implemented to reduce server load",
+        "created_at": "2023-08-27T20:48:36.531Z",
+        "updated_at": "2023-08-27T11:50:30.244Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d363997-744d-4843-a0a7-8932cb9ed7dc",
+        "optimization_date": "2023-08-28T06:12:24.742Z",
+        "optimization_details": "Code refactoring enhanced application performance",
+        "created_at": "2023-08-27T10:34:51.396Z",
+        "updated_at": "2023-08-27T20:16:20.410Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85e35e11-11bc-4bbc-ab32-ce3264b5c19a",
+        "optimization_date": "2023-08-27T18:30:18.783Z",
+        "optimization_details": "Load testing conducted to identify performance bottlenecks",
+        "created_at": "2023-08-27T18:12:00.122Z",
+        "updated_at": "2023-08-27T09:52:48.391Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e320f348-ec9a-4ee8-9c4a-32067fec52a8",
+        "optimization_date": "2023-08-27T19:09:03.834Z",
+        "optimization_details": "Infrastructure upgrade improved system scalability",
+        "created_at": "2023-08-27T11:54:58.642Z",
+        "updated_at": "2023-08-27T17:32:17.558Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "7084474e-4096-45b4-8feb-4e75fbc978a3",
+        "log_date": "2023-08-27T12:09:22.557Z",
+        "log_details": "Error logs analyzed to identify software bugs",
+        "created_at": "2023-08-27T17:21:23.521Z",
+        "updated_at": "2023-08-28T07:36:00.377Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76d98cc2-c64e-4f86-a351-2250a0f6a7f2",
+        "log_date": "2023-08-28T07:46:36.769Z",
+        "log_details": "Access logs monitored for suspicious activity",
+        "created_at": "2023-08-28T04:23:06.958Z",
+        "updated_at": "2023-08-27T18:13:49.895Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a7bc16e-65e2-4196-aafc-3ae30f785297",
+        "log_date": "2023-08-27T23:26:26.557Z",
+        "log_details": "Performance logs reviewed to optimize resource usage",
+        "created_at": "2023-08-28T02:07:36.695Z",
+        "updated_at": "2023-08-27T20:37:59.488Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9b015e3-efc3-4c5f-8975-1a5b2811ca5f",
+        "log_date": "2023-08-28T01:36:58.085Z",
+        "log_details": "Security logs analyzed for potential breaches",
+        "created_at": "2023-08-27T23:29:50.677Z",
+        "updated_at": "2023-08-27T09:48:41.277Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7470a76a-4806-446d-ba10-b34b0522d2a7",
+        "log_date": "2023-08-28T04:50:11.838Z",
+        "log_details": "Application logs examined to troubleshoot issues",
+        "created_at": "2023-08-28T04:39:54.569Z",
+        "updated_at": "2023-08-27T09:48:11.453Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "2ad6f922-099c-430c-b9ff-6bdf15b9a964",
+        "assessment_date": "2023-08-27T21:15:12.971Z",
+        "assessment_details": "Data classification exercise performed to identify sensitive information",
+        "created_at": "2023-08-27T23:40:53.787Z",
+        "updated_at": "2023-08-27T14:10:11.570Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73aea801-2a6a-41da-8f46-5148aac170b0",
+        "assessment_date": "2023-08-28T01:04:41.105Z",
+        "assessment_details": "Privacy impact assessment conducted to evaluate data handling practices",
+        "created_at": "2023-08-27T15:22:02.371Z",
+        "updated_at": "2023-08-27T11:00:49.758Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f2a86cd-f7f4-4f43-8d10-8d3f6bdcc9a9",
+        "assessment_date": "2023-08-28T02:29:09.912Z",
+        "assessment_details": "Data anonymization techniques implemented to protect privacy",
+        "created_at": "2023-08-27T10:19:32.757Z",
+        "updated_at": "2023-08-28T01:29:11.567Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f67f144c-25bc-4801-95ce-bf8fe3e5c3da",
+        "assessment_date": "2023-08-28T03:16:10.499Z",
+        "assessment_details": "Consent management system established to ensure compliance with data protection regulations",
+        "created_at": "2023-08-28T07:50:56.465Z",
+        "updated_at": "2023-08-27T09:51:10.873Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e83808d-7f8b-437a-bfca-7b626d6f20ff",
+        "assessment_date": "2023-08-27T19:32:00.158Z",
+        "assessment_details": "Data retention policy defined to manage data lifecycle",
+        "created_at": "2023-08-27T19:46:44.457Z",
+        "updated_at": "2023-08-28T06:18:05.989Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "725debec-dc71-41f9-bf18-546ed04cbe99",
+        "email": "Morton_Greenfelder@yahoo.com",
+        "firstName": "Davion",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/269.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f840b291-a499-432c-abdd-c4c0d16336a3",
+        "email": "Johann.Strosin73@gmail.com",
+        "firstName": "Rashawn",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/785.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bdc6f1f8-ad4d-420f-9b1e-de56cf08e56f",
+        "email": "Dudley_Sipes17@hotmail.com",
+        "firstName": "Evelyn",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/91.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ad3e548-6a4f-4c13-8a60-1a6b299c50a8",
+        "email": "Maynard_Olson44@gmail.com",
+        "firstName": "Wilbert",
+        "lastName": "Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/44.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98ebdcb9-b426-496c-afd3-4db6b8bd29f9",
+        "email": "Royce_Wintheiser@yahoo.com",
+        "firstName": "Wilfredo",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62611402",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "83432ae9-886e-461d-9e3b-6d846c2c4c14",
+        "assessment_date": "2023-08-27T12:24:44.302Z",
+        "assessment_details": "Vulnerability scan report",
+        "created_at": "2023-08-28T02:27:26.562Z",
+        "updated_at": "2023-08-28T07:35:40.880Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f4e686e-6571-4738-ab53-e46431d171ac",
+        "assessment_date": "2023-08-27T15:50:42.018Z",
+        "assessment_details": "Penetration testing findings",
+        "created_at": "2023-08-27T15:06:31.996Z",
+        "updated_at": "2023-08-27T23:15:27.885Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae803d41-03dc-445c-ada6-e7e5c3b2e096",
+        "assessment_date": "2023-08-27T11:28:16.680Z",
+        "assessment_details": "Security control evaluation",
+        "created_at": "2023-08-27T15:31:21.072Z",
+        "updated_at": "2023-08-27T17:04:27.124Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f760068c-871e-486b-a585-b9169d145f56",
+        "assessment_date": "2023-08-27T21:23:36.047Z",
+        "assessment_details": "Risk assessment summary",
+        "created_at": "2023-08-27T11:27:57.515Z",
+        "updated_at": "2023-08-28T03:55:43.736Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "316f0b25-6e15-4fa3-b2c1-793c7b1e3bd4",
+        "assessment_date": "2023-08-28T00:14:02.555Z",
+        "assessment_details": "Incident response analysis",
+        "created_at": "2023-08-28T05:51:22.938Z",
+        "updated_at": "2023-08-27T23:26:21.278Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "7e93d8fd-0d07-41a7-b57a-5bc756b1790e",
+        "optimization_date": "2023-08-28T00:49:57.075Z",
+        "optimization_details": "Application performance tuning recommendations",
+        "created_at": "2023-08-27T10:57:25.153Z",
+        "updated_at": "2023-08-27T23:16:53.181Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b15fbbad-c067-4cbe-9da0-779d87d46619",
+        "optimization_date": "2023-08-27T17:26:25.313Z",
+        "optimization_details": "Database query optimization plan",
+        "created_at": "2023-08-27T15:33:17.228Z",
+        "updated_at": "2023-08-28T00:45:19.398Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3dea7ea-92db-4025-9511-bf549033eb37",
+        "optimization_date": "2023-08-28T01:51:16.212Z",
+        "optimization_details": "Network infrastructure enhancement proposal",
+        "created_at": "2023-08-27T09:58:15.445Z",
+        "updated_at": "2023-08-27T22:40:59.003Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d97a0108-c1a4-4d87-835b-f6ba58131e5a",
+        "optimization_date": "2023-08-27T17:50:27.099Z",
+        "optimization_details": "System resource utilization analysis",
+        "created_at": "2023-08-27T16:59:20.286Z",
+        "updated_at": "2023-08-27T12:07:45.497Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02e8bdca-2ad2-42a6-ae23-f1b7d8f4d216",
+        "optimization_date": "2023-08-27T14:59:03.133Z",
+        "optimization_details": "Code optimization suggestions",
+        "created_at": "2023-08-27T11:45:45.904Z",
+        "updated_at": "2023-08-28T01:22:34.583Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "dd157902-605c-4812-8aa5-b294a5bb047c",
+        "log_date": "2023-08-27T21:27:45.441Z",
+        "log_details": "Server access logs",
+        "created_at": "2023-08-28T00:18:30.950Z",
+        "updated_at": "2023-08-28T04:54:38.446Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3843075a-55b2-4623-bc40-3152bdcc5077",
+        "log_date": "2023-08-27T20:36:27.072Z",
+        "log_details": "Application error logs",
+        "created_at": "2023-08-27T10:49:06.939Z",
+        "updated_at": "2023-08-27T19:40:38.186Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10c1492a-9531-4201-8e1c-341f11ab411c",
+        "log_date": "2023-08-28T02:37:25.410Z",
+        "log_details": "Network traffic logs",
+        "created_at": "2023-08-28T01:36:22.760Z",
+        "updated_at": "2023-08-27T10:31:08.886Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0eaea0d3-62d0-4b57-a315-e5f171cac233",
+        "log_date": "2023-08-27T17:03:25.804Z",
+        "log_details": "Database transaction logs",
+        "created_at": "2023-08-27T13:26:18.683Z",
+        "updated_at": "2023-08-27T13:04:19.358Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a032517d-9221-4757-a5af-64122b82653b",
+        "log_date": "2023-08-27T11:14:54.621Z",
+        "log_details": "Security event logs",
+        "created_at": "2023-08-27T20:38:42.067Z",
+        "updated_at": "2023-08-28T04:21:49.249Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "36c2484a-3bee-4865-8e16-f445d417768f",
+        "assessment_date": "2023-08-27T18:35:53.287Z",
+        "assessment_details": "Data classification and handling guidelines",
+        "created_at": "2023-08-27T17:14:24.938Z",
+        "updated_at": "2023-08-28T01:48:41.351Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "157c01cf-de65-4c76-b592-e400d7373994",
+        "assessment_date": "2023-08-27T23:42:14.146Z",
+        "assessment_details": "Privacy policy review and recommendations",
+        "created_at": "2023-08-27T09:02:31.799Z",
+        "updated_at": "2023-08-28T07:26:15.950Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db1b441e-0117-4e96-8a17-1701e77ec86e",
+        "assessment_date": "2023-08-27T10:36:10.700Z",
+        "assessment_details": "Data breach response plan",
+        "created_at": "2023-08-27T17:46:02.573Z",
+        "updated_at": "2023-08-27T19:45:24.202Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afe83446-02a1-4ec2-8628-aec68a996da3",
+        "assessment_date": "2023-08-28T06:41:13.953Z",
+        "assessment_details": "Data retention and disposal policy",
+        "created_at": "2023-08-28T00:11:35.762Z",
+        "updated_at": "2023-08-28T02:22:55.257Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6ddd712-081e-4a27-a4f1-8528382c6798",
+        "assessment_date": "2023-08-27T15:20:30.532Z",
+        "assessment_details": "Third-party data sharing assessment",
+        "created_at": "2023-08-27T11:18:06.838Z",
+        "updated_at": "2023-08-27T09:56:44.515Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "890f4794-de17-4784-bfcc-d7d04204c086",
+        "email": "Rhett3@gmail.com",
+        "firstName": "Wava",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86795433",
+        "tenantId": null
+      },
+      {
+        "reference": "8b96b62a-95d1-48a0-b169-67c02c3e1973",
+        "email": "Chanelle_Conroy@yahoo.com",
+        "firstName": "Connie",
+        "lastName": "Harris-Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52404395",
+        "tenantId": null
+      },
+      {
+        "reference": "4456357c-ab26-499b-b68d-d214f62e3cfe",
+        "email": "Simone_McLaughlin27@gmail.com",
+        "firstName": "Augustine",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4655942",
+        "tenantId": null
+      },
+      {
+        "reference": "39ca2567-5d6c-4de2-877e-b947af6ae348",
+        "email": "Laura_Hoeger50@yahoo.com",
+        "firstName": "Violette",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61103427",
+        "tenantId": null
+      },
+      {
+        "reference": "a200e979-a665-4747-8345-2f71cfcd03c3",
+        "email": "Dannie.Schaden94@yahoo.com",
+        "firstName": "Chadd",
+        "lastName": "Welch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/374.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "204b1969-8d3c-4ee0-9a74-5958f91f499b",
+        "assessment_date": "2023-08-27T22:32:11.939Z",
+        "assessment_details": "Vulnerability scan report",
+        "created_at": "2023-08-28T07:37:05.029Z",
+        "updated_at": "2023-08-27T14:44:22.151Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee83c54e-c480-4aff-82ce-269668683aa6",
+        "assessment_date": "2023-08-27T20:10:46.028Z",
+        "assessment_details": "Penetration test findings",
+        "created_at": "2023-08-28T06:35:09.502Z",
+        "updated_at": "2023-08-28T05:14:37.390Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4f0280c-eb5e-4327-84ee-9853ccebb380",
+        "assessment_date": "2023-08-28T02:14:59.749Z",
+        "assessment_details": "Security control assessment",
+        "created_at": "2023-08-27T09:33:51.957Z",
+        "updated_at": "2023-08-27T16:52:19.825Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c67f0fff-21a1-49b4-a87b-83c5095b446b",
+        "assessment_date": "2023-08-27T11:25:50.189Z",
+        "assessment_details": "Risk assessment report",
+        "created_at": "2023-08-27T18:25:17.459Z",
+        "updated_at": "2023-08-27T13:47:39.969Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "382dd9b2-0696-420e-bac8-6f24176e25a5",
+        "assessment_date": "2023-08-28T04:54:11.084Z",
+        "assessment_details": "Security incident analysis",
+        "created_at": "2023-08-27T13:08:20.729Z",
+        "updated_at": "2023-08-27T23:52:30.836Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "83614afa-5493-4df5-8fdd-7df172f1cf77",
+        "optimization_date": "2023-08-28T02:55:48.037Z",
+        "optimization_details": "Database performance tuning",
+        "created_at": "2023-08-27T18:48:51.412Z",
+        "updated_at": "2023-08-27T22:22:57.887Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fe45a52-d390-40a0-a1e8-31f696dc290f",
+        "optimization_date": "2023-08-27T18:57:28.885Z",
+        "optimization_details": "Network optimization",
+        "created_at": "2023-08-27T09:01:34.242Z",
+        "updated_at": "2023-08-27T21:41:45.787Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb92b148-e330-41c9-a071-3c88b43352cd",
+        "optimization_date": "2023-08-28T02:42:23.867Z",
+        "optimization_details": "Code optimization techniques",
+        "created_at": "2023-08-27T17:41:39.666Z",
+        "updated_at": "2023-08-27T09:06:58.179Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ce86d24-1ae5-42a6-9993-b7156b84a2a2",
+        "optimization_date": "2023-08-27T15:47:24.396Z",
+        "optimization_details": "Server load balancing",
+        "created_at": "2023-08-27T23:48:08.868Z",
+        "updated_at": "2023-08-27T09:31:44.204Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f50a8065-c926-4cf0-ad08-3d97d312a6af",
+        "optimization_date": "2023-08-27T12:51:21.341Z",
+        "optimization_details": "Application caching strategies",
+        "created_at": "2023-08-27T15:48:39.319Z",
+        "updated_at": "2023-08-27T18:07:37.637Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "7526f1b6-2afb-40c2-84f6-88aba1d19039",
+        "log_date": "2023-08-27T20:38:54.203Z",
+        "log_details": "Server access logs",
+        "created_at": "2023-08-27T21:05:24.592Z",
+        "updated_at": "2023-08-27T09:38:49.804Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7b092d8-fbe6-4fcb-b418-2b3155f02b54",
+        "log_date": "2023-08-28T07:23:01.147Z",
+        "log_details": "Application error logs",
+        "created_at": "2023-08-27T17:45:19.638Z",
+        "updated_at": "2023-08-27T17:20:45.599Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd561787-876b-4fe7-b90a-a9d2ac9264e5",
+        "log_date": "2023-08-28T00:39:46.298Z",
+        "log_details": "Network traffic logs",
+        "created_at": "2023-08-28T06:46:11.274Z",
+        "updated_at": "2023-08-28T07:43:55.574Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5425827c-b854-40fe-84b8-140a751a47bb",
+        "log_date": "2023-08-27T19:52:31.119Z",
+        "log_details": "Security event logs",
+        "created_at": "2023-08-28T00:33:14.952Z",
+        "updated_at": "2023-08-27T12:09:58.377Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6dc58082-93f1-4292-a4da-ee6a4594720d",
+        "log_date": "2023-08-28T00:20:39.011Z",
+        "log_details": "Database query logs",
+        "created_at": "2023-08-27T13:02:23.656Z",
+        "updated_at": "2023-08-28T00:43:58.321Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "e22f0879-18f1-4235-8b3c-42c83e0dbc16",
+        "assessment_date": "2023-08-28T04:11:49.880Z",
+        "assessment_details": "Data classification and labeling assessment",
+        "created_at": "2023-08-27T12:47:00.309Z",
+        "updated_at": "2023-08-28T03:38:19.087Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e42accb-e8a8-4b46-947f-48656478498d",
+        "assessment_date": "2023-08-27T13:12:06.955Z",
+        "assessment_details": "Privacy policy compliance assessment",
+        "created_at": "2023-08-27T13:41:19.679Z",
+        "updated_at": "2023-08-28T07:24:12.948Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30f42c2f-28a6-47f6-ad0b-2d4a4687d1b7",
+        "assessment_date": "2023-08-27T20:32:32.320Z",
+        "assessment_details": "Data breach response plan assessment",
+        "created_at": "2023-08-28T02:08:06.481Z",
+        "updated_at": "2023-08-28T08:18:41.879Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0798cdc9-9826-4ebc-ac9f-fd4dec61cc70",
+        "assessment_date": "2023-08-28T04:00:59.318Z",
+        "assessment_details": "Data retention and disposal assessment",
+        "created_at": "2023-08-27T17:45:36.176Z",
+        "updated_at": "2023-08-27T23:50:41.000Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "072468c0-cadc-4383-9148-b3c0053a444d",
+        "assessment_date": "2023-08-27T20:55:33.351Z",
+        "assessment_details": "Third-party data sharing assessment",
+        "created_at": "2023-08-28T04:06:44.882Z",
+        "updated_at": "2023-08-27T16:33:25.494Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fead5dd7-d469-4b8e-8df8-4ec8794187f2",
+        "email": "Frank_Davis@hotmail.com",
+        "firstName": "Yasmeen",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63725326",
+        "tenantId": null
+      },
+      {
+        "reference": "54aab8a3-0901-4da6-b898-5b38dc666245",
+        "email": "Erik.Stroman55@yahoo.com",
+        "firstName": "Mateo",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/406.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f4d6954d-ad42-48cb-a1c4-80beb1080424",
+        "email": "Bridgette.Conroy30@hotmail.com",
+        "firstName": "Ernie",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61445601",
+        "tenantId": null
+      },
+      {
+        "reference": "df53ad88-817a-4eb0-ba05-bbae2c69668f",
+        "email": "Sharon.Jones@hotmail.com",
+        "firstName": "Nat",
+        "lastName": "Emard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11941994",
+        "tenantId": null
+      },
+      {
+        "reference": "ef5de5db-36bd-4654-913c-ce951d94607c",
+        "email": "Reanna55@hotmail.com",
+        "firstName": "Joy",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/729.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "82546e74-f7f3-4c49-b3b6-47a7ae091cd4",
+        "assessment_date": "2023-08-28T06:40:50.918Z",
+        "assessment_details": "Identified vulnerabilities in the system",
+        "created_at": "2023-08-27T10:07:43.807Z",
+        "updated_at": "2023-08-27T10:21:06.245Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "261645ab-7d45-4418-8b96-4468779f55c9",
+        "assessment_date": "2023-08-27T17:46:17.048Z",
+        "assessment_details": "Conducted penetration testing",
+        "created_at": "2023-08-28T00:53:38.869Z",
+        "updated_at": "2023-08-27T17:15:20.918Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b645cade-6cd3-4931-ae39-21d58946fc94",
+        "assessment_date": "2023-08-27T22:31:57.647Z",
+        "assessment_details": "Evaluated access controls",
+        "created_at": "2023-08-28T06:23:15.193Z",
+        "updated_at": "2023-08-28T00:49:26.311Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc17cafb-8c27-44f1-802f-43df8c16aa70",
+        "assessment_date": "2023-08-27T17:46:35.787Z",
+        "assessment_details": "Reviewed security policies",
+        "created_at": "2023-08-27T21:16:38.009Z",
+        "updated_at": "2023-08-27T19:53:09.722Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1641827-44d0-4301-9878-fa00ec330477",
+        "assessment_date": "2023-08-28T04:09:49.407Z",
+        "assessment_details": "Assessed encryption mechanisms",
+        "created_at": "2023-08-27T13:35:17.896Z",
+        "updated_at": "2023-08-28T02:37:20.689Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "d3886aad-c8f6-4d99-9c8c-fc7e1496a792",
+        "optimization_date": "2023-08-27T17:42:35.766Z",
+        "optimization_details": "Optimized database queries",
+        "created_at": "2023-08-27T16:37:03.619Z",
+        "updated_at": "2023-08-27T22:25:13.550Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "890c4301-5928-4d3b-bf8e-1de52ea09e71",
+        "optimization_date": "2023-08-28T00:59:10.805Z",
+        "optimization_details": "Implemented caching mechanisms",
+        "created_at": "2023-08-27T12:12:20.157Z",
+        "updated_at": "2023-08-27T16:44:37.648Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "faf6d5d4-633b-4092-a405-b2af1fdd4acc",
+        "optimization_date": "2023-08-27T22:22:50.030Z",
+        "optimization_details": "Improved server response time",
+        "created_at": "2023-08-27T18:01:29.797Z",
+        "updated_at": "2023-08-27T21:28:22.096Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33cefded-8639-4a50-b8bc-6e406a8a3bea",
+        "optimization_date": "2023-08-27T18:03:15.381Z",
+        "optimization_details": "Optimized network bandwidth usage",
+        "created_at": "2023-08-27T17:43:39.232Z",
+        "updated_at": "2023-08-27T16:54:31.043Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "499ea9e1-1b9c-43d9-986d-e2b7ea78cc36",
+        "optimization_date": "2023-08-27T10:43:15.197Z",
+        "optimization_details": "Enhanced application scalability",
+        "created_at": "2023-08-28T02:39:29.240Z",
+        "updated_at": "2023-08-27T15:24:06.289Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "3db6d116-134b-4d12-a504-d89792548a93",
+        "log_date": "2023-08-27T10:38:41.564Z",
+        "log_details": "Analyzed system logs for errors",
+        "created_at": "2023-08-27T10:21:38.109Z",
+        "updated_at": "2023-08-27T12:16:36.652Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22eb3f8f-0d3c-41fd-b3d4-d8114c4a16a1",
+        "log_date": "2023-08-27T21:54:03.109Z",
+        "log_details": "Identified performance bottlenecks",
+        "created_at": "2023-08-27T08:56:32.056Z",
+        "updated_at": "2023-08-28T04:37:07.310Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "696b7b4b-aa82-4408-b741-ffff1bb8ce1b",
+        "log_date": "2023-08-28T00:16:09.330Z",
+        "log_details": "Reviewed user activity logs",
+        "created_at": "2023-08-27T17:57:49.958Z",
+        "updated_at": "2023-08-27T09:23:55.822Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bafb99e-bba2-4231-822a-8e8439d259d5",
+        "log_date": "2023-08-27T22:53:36.748Z",
+        "log_details": "Investigated security incidents",
+        "created_at": "2023-08-27T19:35:16.587Z",
+        "updated_at": "2023-08-27T10:49:02.238Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb960b35-826b-4996-84ed-bf839fb3b213",
+        "log_date": "2023-08-28T05:14:34.627Z",
+        "log_details": "Monitored system logs for anomalies",
+        "created_at": "2023-08-27T17:27:48.555Z",
+        "updated_at": "2023-08-27T17:59:39.315Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "91d6df97-fa93-4364-9b93-2f5dc30f2f13",
+        "assessment_date": "2023-08-28T08:31:48.599Z",
+        "assessment_details": "Evaluated data encryption practices",
+        "created_at": "2023-08-27T14:53:11.012Z",
+        "updated_at": "2023-08-27T08:49:22.075Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db14e0fa-f312-46c3-9920-7a608b290397",
+        "assessment_date": "2023-08-27T12:44:34.135Z",
+        "assessment_details": "Reviewed data access controls",
+        "created_at": "2023-08-27T23:12:29.757Z",
+        "updated_at": "2023-08-28T04:36:19.688Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c8c91de-2fba-4839-a067-29a3a01008b4",
+        "assessment_date": "2023-08-27T18:30:23.011Z",
+        "assessment_details": "Conducted privacy impact assessments",
+        "created_at": "2023-08-27T16:20:58.948Z",
+        "updated_at": "2023-08-27T15:29:06.004Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0d3f82f-96d6-4617-bcd9-2f711dacce89",
+        "assessment_date": "2023-08-27T09:37:40.603Z",
+        "assessment_details": "Assessed data retention policies",
+        "created_at": "2023-08-27T23:42:20.459Z",
+        "updated_at": "2023-08-27T23:55:27.694Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "026c8c22-cb7b-433d-8c8f-dd11a5dc423c",
+        "assessment_date": "2023-08-27T17:59:04.943Z",
+        "assessment_details": "Identified potential data breaches",
+        "created_at": "2023-08-27T13:26:06.216Z",
+        "updated_at": "2023-08-28T02:26:46.848Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7543ba03-2a41-4c4c-aabe-f01446290f60",
+        "email": "Adrien.Gibson@hotmail.com",
+        "firstName": "Brannon",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/86.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6be026f1-7ba6-4210-8042-fbf75bbc06e0",
+        "email": "Alize.Jacobi46@gmail.com",
+        "firstName": "Eileen",
+        "lastName": "Trantow",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9923156",
+        "tenantId": null
+      },
+      {
+        "reference": "22226dc8-cb11-4789-948d-5a1094348a4d",
+        "email": "Davion_Brown@yahoo.com",
+        "firstName": "Golden",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97521778",
+        "tenantId": null
+      },
+      {
+        "reference": "1f2a0525-320e-4127-bea4-009b3a87f8bf",
+        "email": "Horace12@hotmail.com",
+        "firstName": "Destini",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/128.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "60e092fc-4328-4b81-b9c4-c4c5b760fbf5",
+        "email": "Yvonne_Denesik37@yahoo.com",
+        "firstName": "Fae",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/140.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "195a3ad8-8c74-4163-9f36-2387ae80a3de",
+        "assessment_date": "2023-08-27T10:43:47.874Z",
+        "assessment_details": "Identified vulnerabilities in the network infrastructure",
+        "created_at": "2023-08-27T12:04:47.033Z",
+        "updated_at": "2023-08-28T06:20:48.674Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60e3a849-d4d9-41e3-81b1-cf48db9f84ee",
+        "assessment_date": "2023-08-27T08:56:35.043Z",
+        "assessment_details": "Conducted penetration testing to evaluate system security",
+        "created_at": "2023-08-27T13:42:35.339Z",
+        "updated_at": "2023-08-27T17:56:50.855Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8b668b7-b3cd-41c3-93dc-5dcfe435b48a",
+        "assessment_date": "2023-08-27T13:12:38.051Z",
+        "assessment_details": "Reviewed access controls and user privileges",
+        "created_at": "2023-08-27T23:49:38.681Z",
+        "updated_at": "2023-08-27T17:50:35.879Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e60e43ab-4cc7-4814-8447-d371fbef4a31",
+        "assessment_date": "2023-08-27T20:50:13.800Z",
+        "assessment_details": "Assessed the effectiveness of security measures",
+        "created_at": "2023-08-27T12:45:12.729Z",
+        "updated_at": "2023-08-27T11:46:54.647Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03eba3d7-ac36-4afe-9fa3-1f6686a72953",
+        "assessment_date": "2023-08-27T17:57:06.501Z",
+        "assessment_details": "Analyzed threat intelligence and identified potential risks",
+        "created_at": "2023-08-28T06:20:52.111Z",
+        "updated_at": "2023-08-27T18:53:41.012Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "448a4ccc-fb08-42f3-8d12-bb5a4fa0a434",
+        "optimization_date": "2023-08-28T00:35:32.021Z",
+        "optimization_details": "Optimized database queries for faster response times",
+        "created_at": "2023-08-27T14:47:03.768Z",
+        "updated_at": "2023-08-27T21:16:54.004Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1115755-a061-4e9c-8715-ce7e224e4df9",
+        "optimization_date": "2023-08-27T11:18:17.653Z",
+        "optimization_details": "Implemented caching mechanisms to improve performance",
+        "created_at": "2023-08-27T09:33:03.994Z",
+        "updated_at": "2023-08-27T19:41:42.833Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8065dcb-a969-44af-9727-59ab9de6a6db",
+        "optimization_date": "2023-08-28T05:21:42.034Z",
+        "optimization_details": "Identified and resolved bottlenecks in the application",
+        "created_at": "2023-08-28T07:19:37.380Z",
+        "updated_at": "2023-08-28T03:05:00.092Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5deff5c5-f305-4b22-b9eb-e3177906147c",
+        "optimization_date": "2023-08-27T16:41:46.149Z",
+        "optimization_details": "Optimized server configurations for better scalability",
+        "created_at": "2023-08-27T19:29:12.439Z",
+        "updated_at": "2023-08-27T12:24:17.494Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7867f410-5589-4130-9614-fbeadf29d430",
+        "optimization_date": "2023-08-27T18:11:58.021Z",
+        "optimization_details": "Improved code efficiency to reduce resource usage",
+        "created_at": "2023-08-27T14:00:02.922Z",
+        "updated_at": "2023-08-28T03:20:54.068Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "b1e49aa4-46ac-4475-8919-55fab4555fab",
+        "log_date": "2023-08-27T13:26:20.046Z",
+        "log_details": "Parsed and analyzed server logs for troubleshooting",
+        "created_at": "2023-08-27T09:47:02.059Z",
+        "updated_at": "2023-08-27T09:01:29.264Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3746ef42-bdb4-46ff-9bca-503f4424b86f",
+        "log_date": "2023-08-27T20:31:03.787Z",
+        "log_details": "Identified patterns and anomalies in log data",
+        "created_at": "2023-08-28T05:09:05.778Z",
+        "updated_at": "2023-08-28T06:56:39.026Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9fc334d-ebe4-4715-890f-202973d2ad17",
+        "log_date": "2023-08-28T02:06:57.375Z",
+        "log_details": "Extracted relevant information for performance monitoring",
+        "created_at": "2023-08-27T22:41:40.578Z",
+        "updated_at": "2023-08-28T03:27:26.975Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18c2a9e5-c9c9-4d50-b92e-ec44699c144c",
+        "log_date": "2023-08-28T01:41:19.818Z",
+        "log_details": "Implemented log aggregation and visualization tools",
+        "created_at": "2023-08-28T01:25:42.880Z",
+        "updated_at": "2023-08-27T11:00:11.718Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbd35047-afd1-45f1-8c63-3bc03ef128e4",
+        "log_date": "2023-08-27T13:57:23.036Z",
+        "log_details": "Generated reports based on log analysis",
+        "created_at": "2023-08-28T04:35:43.306Z",
+        "updated_at": "2023-08-27T11:09:35.398Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "6e1c90ca-1b2f-4017-a70d-3aa4ba8ab423",
+        "assessment_date": "2023-08-28T08:41:55.161Z",
+        "assessment_details": "Evaluated data handling practices and compliance",
+        "created_at": "2023-08-27T17:39:19.738Z",
+        "updated_at": "2023-08-27T10:11:15.247Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a18848b-56e2-42b1-8d7c-25115fc576ee",
+        "assessment_date": "2023-08-27T16:52:19.098Z",
+        "assessment_details": "Conducted privacy impact assessments for new systems",
+        "created_at": "2023-08-27T12:50:06.897Z",
+        "updated_at": "2023-08-27T15:57:01.416Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b1f06c3-5ed2-43c3-8358-0db18a9aebd3",
+        "assessment_date": "2023-08-27T16:10:44.385Z",
+        "assessment_details": "Reviewed data retention and deletion policies",
+        "created_at": "2023-08-27T23:22:06.304Z",
+        "updated_at": "2023-08-27T12:12:11.884Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3613a8ee-c2f4-45c7-9f96-0ec93e3c9f9d",
+        "assessment_date": "2023-08-27T09:05:02.172Z",
+        "assessment_details": "Assessed data encryption and access controls",
+        "created_at": "2023-08-28T08:38:38.838Z",
+        "updated_at": "2023-08-28T03:00:40.014Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b56cc6c-9eaa-462e-a11d-dca242cdefc6",
+        "assessment_date": "2023-08-27T19:15:40.190Z",
+        "assessment_details": "Identified potential privacy risks and recommended mitigation measures",
+        "created_at": "2023-08-28T00:50:12.480Z",
+        "updated_at": "2023-08-27T15:46:02.840Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2bd0c605-e544-4347-b736-1a7bf3ffec43",
+        "email": "Mossie_Runolfsdottir@yahoo.com",
+        "firstName": "Arthur",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57737627",
+        "tenantId": null
+      },
+      {
+        "reference": "f17a6880-9cb5-4332-8805-5a3cb15cbc44",
+        "email": "Corene65@hotmail.com",
+        "firstName": "Skyla",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/187.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "965da313-333e-4495-aa06-ae9ccad8eed0",
+        "email": "Natalie.Kub78@gmail.com",
+        "firstName": "Noel",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/436.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "328fdb88-2772-4f39-89b3-3f72678d41be",
+        "email": "Lennie_Welch@gmail.com",
+        "firstName": "Dino",
+        "lastName": "Keebler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75782575",
+        "tenantId": null
+      },
+      {
+        "reference": "a71673b4-ef24-489d-8020-0864c0caf082",
+        "email": "Velda_Satterfield78@yahoo.com",
+        "firstName": "Johnny",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73697428",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "74262d4d-59fc-4e91-9f4c-4145bac87f19",
+        "assessment_date": "2023-08-28T05:11:31.534Z",
+        "assessment_details": "Identified vulnerabilities in the system",
+        "created_at": "2023-08-27T13:58:37.220Z",
+        "updated_at": "2023-08-28T00:22:22.037Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "488d0a7e-a631-43a8-9948-cf155ff5e369",
+        "assessment_date": "2023-08-27T14:03:33.993Z",
+        "assessment_details": "Conducted penetration testing",
+        "created_at": "2023-08-27T11:35:02.379Z",
+        "updated_at": "2023-08-27T09:55:09.932Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02c56523-be3d-4f26-9d00-046a4f5511eb",
+        "assessment_date": "2023-08-28T04:31:11.067Z",
+        "assessment_details": "Reviewed access controls and permissions",
+        "created_at": "2023-08-28T07:48:58.058Z",
+        "updated_at": "2023-08-27T20:17:41.070Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77ebd99b-2bc2-4874-96c7-16d07f70ba54",
+        "assessment_date": "2023-08-27T12:09:36.755Z",
+        "assessment_details": "Assessed data encryption methods",
+        "created_at": "2023-08-28T00:16:39.640Z",
+        "updated_at": "2023-08-27T18:41:40.361Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d4eabe7-e443-4710-9f57-42b160d895be",
+        "assessment_date": "2023-08-27T12:45:01.303Z",
+        "assessment_details": "Evaluated incident response procedures",
+        "created_at": "2023-08-28T05:03:33.849Z",
+        "updated_at": "2023-08-27T17:15:32.469Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "5080533c-4482-48e3-9ab8-2e3f954fd81e",
+        "optimization_date": "2023-08-28T07:07:28.715Z",
+        "optimization_details": "Optimized database queries",
+        "created_at": "2023-08-27T09:00:11.917Z",
+        "updated_at": "2023-08-27T12:32:29.311Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28110a4b-e8ba-4daa-ab32-cd370fbdbdef",
+        "optimization_date": "2023-08-28T06:05:26.955Z",
+        "optimization_details": "Implemented caching mechanisms",
+        "created_at": "2023-08-28T06:36:59.412Z",
+        "updated_at": "2023-08-28T05:35:07.013Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d7e02bf-4ab5-4b4d-904b-8465949fd6da",
+        "optimization_date": "2023-08-27T20:18:14.323Z",
+        "optimization_details": "Improved server response time",
+        "created_at": "2023-08-27T17:31:38.503Z",
+        "updated_at": "2023-08-27T22:00:06.355Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "575029dd-8cf6-4e78-a550-52c0533a601d",
+        "optimization_date": "2023-08-27T11:58:25.184Z",
+        "optimization_details": "Enhanced code efficiency",
+        "created_at": "2023-08-27T20:12:55.901Z",
+        "updated_at": "2023-08-27T16:42:28.689Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a60d0aaf-b080-45dd-87ab-10903e3285fe",
+        "optimization_date": "2023-08-27T13:29:27.583Z",
+        "optimization_details": "Streamlined resource allocation",
+        "created_at": "2023-08-28T03:55:08.602Z",
+        "updated_at": "2023-08-28T05:33:43.501Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "dcf2e267-59d3-4176-a067-fa7302a32bd1",
+        "log_date": "2023-08-28T04:56:55.603Z",
+        "log_details": "Analyzed system logs for anomalies",
+        "created_at": "2023-08-27T19:55:19.468Z",
+        "updated_at": "2023-08-28T05:18:29.685Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4f82005-bbd9-4d78-81e8-9d6dbab6e456",
+        "log_date": "2023-08-28T08:12:26.760Z",
+        "log_details": "Identified patterns in log data",
+        "created_at": "2023-08-27T10:45:28.287Z",
+        "updated_at": "2023-08-27T21:44:10.047Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f6ead50-b095-4971-8eb2-63aa3220e40c",
+        "log_date": "2023-08-27T15:02:07.619Z",
+        "log_details": "Investigated error logs",
+        "created_at": "2023-08-27T10:03:36.102Z",
+        "updated_at": "2023-08-27T17:58:42.829Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e76593f-a96c-45e9-89c5-45a2f2f65191",
+        "log_date": "2023-08-27T17:00:29.242Z",
+        "log_details": "Monitored log files for security breaches",
+        "created_at": "2023-08-28T00:25:19.314Z",
+        "updated_at": "2023-08-27T17:56:53.608Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e8597bb-e83c-498f-b26e-19c0710dd86f",
+        "log_date": "2023-08-27T20:35:53.436Z",
+        "log_details": "Extracted actionable insights from log data",
+        "created_at": "2023-08-27T19:25:14.374Z",
+        "updated_at": "2023-08-27T23:44:42.419Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "44219583-12a9-4cea-a105-b11ac53a50d6",
+        "assessment_date": "2023-08-27T11:04:06.907Z",
+        "assessment_details": "Evaluated data handling practices",
+        "created_at": "2023-08-27T15:38:38.632Z",
+        "updated_at": "2023-08-28T07:13:52.286Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0249cba-34c7-4b58-9f03-8267758ea8fc",
+        "assessment_date": "2023-08-28T00:13:39.830Z",
+        "assessment_details": "Reviewed privacy policies",
+        "created_at": "2023-08-27T17:25:31.245Z",
+        "updated_at": "2023-08-27T21:26:59.449Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0bdd4d4c-4023-485d-b397-a07a6651c11d",
+        "assessment_date": "2023-08-28T01:53:56.814Z",
+        "assessment_details": "Conducted data classification assessment",
+        "created_at": "2023-08-28T00:54:12.136Z",
+        "updated_at": "2023-08-27T09:36:58.919Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcc5a32d-b868-4b0b-b640-6991adea5e84",
+        "assessment_date": "2023-08-28T06:49:46.229Z",
+        "assessment_details": "Assessed data retention policies",
+        "created_at": "2023-08-27T20:54:30.445Z",
+        "updated_at": "2023-08-27T17:32:17.173Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adb39cc7-d5a3-4d05-8f0c-810597af2c5d",
+        "assessment_date": "2023-08-28T05:52:37.377Z",
+        "assessment_details": "Identified potential data leaks",
+        "created_at": "2023-08-27T09:39:49.901Z",
+        "updated_at": "2023-08-28T08:32:46.622Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "52c8083c-811e-4b8e-8a55-ad3eed7bd654",
+        "email": "Estrella.OHara@yahoo.com",
+        "firstName": "Ofelia",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88063940",
+        "tenantId": null
+      },
+      {
+        "reference": "5866f641-2bad-4d24-a48e-58d9d823cd26",
+        "email": "Philip_Cruickshank@yahoo.com",
+        "firstName": "Kacey",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/423.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cda1c6c3-6ad1-4c27-a37c-9634f37938f3",
+        "email": "Tianna42@gmail.com",
+        "firstName": "Francesca",
+        "lastName": "Gislason",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/934.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14475f03-089b-4885-82b1-a14753129760",
+        "email": "Edmund.Heller36@hotmail.com",
+        "firstName": "Johnny",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15987216",
+        "tenantId": null
+      },
+      {
+        "reference": "78be6703-7808-4f71-900f-c250c381a734",
+        "email": "Freddy56@yahoo.com",
+        "firstName": "Lucious",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1082.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "6f25ed54-4e26-4a73-aead-34c2a06ec930",
+        "assessment_date": "2023-08-27T16:37:53.544Z",
+        "assessment_details": "Vulnerability scan report",
+        "created_at": "2023-08-27T22:10:57.329Z",
+        "updated_at": "2023-08-27T19:28:39.507Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6cfd9f86-40ae-4f5d-b663-033dff45371b",
+        "assessment_date": "2023-08-28T03:03:26.259Z",
+        "assessment_details": "Penetration testing findings",
+        "created_at": "2023-08-27T23:15:43.198Z",
+        "updated_at": "2023-08-28T05:09:08.092Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5069a9cc-a4c2-4f5b-af51-a63332ff8633",
+        "assessment_date": "2023-08-27T20:18:53.006Z",
+        "assessment_details": "Security control review findings",
+        "created_at": "2023-08-28T05:36:11.972Z",
+        "updated_at": "2023-08-28T05:45:56.193Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feb53137-36a2-4dbf-9329-5a6f6c897880",
+        "assessment_date": "2023-08-28T07:05:14.828Z",
+        "assessment_details": "Incident response assessment report",
+        "created_at": "2023-08-27T12:09:46.479Z",
+        "updated_at": "2023-08-28T08:20:56.562Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec4854c4-ae1a-4fe5-8a04-a51d03311094",
+        "assessment_date": "2023-08-27T15:50:24.004Z",
+        "assessment_details": "Security policy compliance assessment report",
+        "created_at": "2023-08-27T13:06:42.284Z",
+        "updated_at": "2023-08-27T20:38:53.638Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "08973899-51d1-4a11-a871-724239a2d00d",
+        "optimization_date": "2023-08-28T07:25:54.514Z",
+        "optimization_details": "Database query optimization recommendations",
+        "created_at": "2023-08-28T06:07:27.386Z",
+        "updated_at": "2023-08-28T07:50:21.123Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "428dd95f-2502-4a49-8665-16474aa6ca69",
+        "optimization_date": "2023-08-28T06:23:14.028Z",
+        "optimization_details": "Network performance analysis report",
+        "created_at": "2023-08-28T08:19:41.113Z",
+        "updated_at": "2023-08-27T10:14:03.679Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4b7a6ac-8339-4763-ba27-78225d8c19fb",
+        "optimization_date": "2023-08-27T22:46:25.695Z",
+        "optimization_details": "Code profiling results",
+        "created_at": "2023-08-28T07:56:57.854Z",
+        "updated_at": "2023-08-27T19:27:49.149Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d32e479e-8708-46fe-b78a-025811cb527d",
+        "optimization_date": "2023-08-28T01:03:41.069Z",
+        "optimization_details": "Server resource utilization analysis",
+        "created_at": "2023-08-28T03:07:46.082Z",
+        "updated_at": "2023-08-28T05:56:02.257Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd631c4c-2201-443e-969a-fa9fe85b6f4b",
+        "optimization_date": "2023-08-28T03:25:21.461Z",
+        "optimization_details": "Application response time improvement suggestions",
+        "created_at": "2023-08-28T01:46:00.708Z",
+        "updated_at": "2023-08-27T12:14:45.099Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "63fcb30f-6d41-422c-aa93-ce66b6bd488a",
+        "log_date": "2023-08-28T03:24:15.441Z",
+        "log_details": "System log analysis report",
+        "created_at": "2023-08-27T13:37:13.211Z",
+        "updated_at": "2023-08-28T06:26:34.609Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "823a63c8-8925-41c8-85ff-9a88a9c97380",
+        "log_date": "2023-08-27T09:10:56.389Z",
+        "log_details": "Web server access log analysis findings",
+        "created_at": "2023-08-28T04:32:36.892Z",
+        "updated_at": "2023-08-27T18:35:57.672Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7fef66f-588d-478d-93af-70bb43e8dea4",
+        "log_date": "2023-08-27T11:23:36.816Z",
+        "log_details": "Application error log review",
+        "created_at": "2023-08-28T00:50:08.812Z",
+        "updated_at": "2023-08-27T16:23:38.656Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba71fbe5-cc8b-46f1-83ec-f177180dfe6a",
+        "log_date": "2023-08-27T18:24:47.595Z",
+        "log_details": "Network traffic log analysis report",
+        "created_at": "2023-08-28T00:37:30.468Z",
+        "updated_at": "2023-08-27T10:49:31.703Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3a77b41-7876-4c1f-b415-348b6a6d038e",
+        "log_date": "2023-08-27T18:11:01.219Z",
+        "log_details": "Security event log analysis findings",
+        "created_at": "2023-08-27T12:19:12.835Z",
+        "updated_at": "2023-08-27T17:31:26.966Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "4ffd4b1b-5a9f-4bcf-b220-db30b0d5b024",
+        "assessment_date": "2023-08-27T17:18:45.007Z",
+        "assessment_details": "Data classification and labeling recommendations",
+        "created_at": "2023-08-27T19:53:54.600Z",
+        "updated_at": "2023-08-28T00:36:57.856Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1952804-dd10-4b96-b6fd-fe8b40d84b59",
+        "assessment_date": "2023-08-28T08:44:31.781Z",
+        "assessment_details": "Privacy policy compliance assessment report",
+        "created_at": "2023-08-28T07:03:18.155Z",
+        "updated_at": "2023-08-27T19:36:44.545Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8f5234b-e04b-4c8b-a737-1cc5fca968b0",
+        "assessment_date": "2023-08-27T18:25:15.395Z",
+        "assessment_details": "Data retention and disposal policy review findings",
+        "created_at": "2023-08-27T13:33:11.537Z",
+        "updated_at": "2023-08-27T19:27:36.856Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "916a2d88-5c00-461d-b4a4-2d6c9046f209",
+        "assessment_date": "2023-08-28T05:44:36.060Z",
+        "assessment_details": "Data breach incident response plan assessment report",
+        "created_at": "2023-08-27T20:43:43.881Z",
+        "updated_at": "2023-08-28T00:44:16.822Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d42d118-0ecd-43b3-9acd-e9164e05db56",
+        "assessment_date": "2023-08-27T09:17:42.149Z",
+        "assessment_details": "Data anonymization and pseudonymization recommendations",
+        "created_at": "2023-08-28T07:39:17.080Z",
+        "updated_at": "2023-08-28T00:06:00.587Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bdb12c8f-26d9-4202-bb9a-914995e350f3",
+        "email": "Eula_Prosacco@hotmail.com",
+        "firstName": "Arely",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/244.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4e188baa-f421-4672-b9cf-89f477e4ea25",
+        "email": "Kaylie_Deckow@yahoo.com",
+        "firstName": "Misael",
+        "lastName": "Gerhold",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72025776",
+        "tenantId": null
+      },
+      {
+        "reference": "371d38c3-ae0f-45b0-8924-9c8c360df0be",
+        "email": "Justine_Konopelski54@hotmail.com",
+        "firstName": "Sharon",
+        "lastName": "Schultz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c60cd2d6-1e81-4aac-9a16-5202d20c115f",
+        "email": "Friedrich25@yahoo.com",
+        "firstName": "Malinda",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/596.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a2e9b2f5-54fe-4d8a-a495-fa24298c30bd",
+        "email": "Victor_Anderson5@yahoo.com",
+        "firstName": "Janis",
+        "lastName": "Schiller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1105.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "144735ef-8264-45a3-97c7-c5105324b539",
+        "assessment_date": "2023-08-27T17:12:20.479Z",
+        "assessment_details": "Vulnerability identified in network infrastructure",
+        "created_at": "2023-08-27T19:34:56.230Z",
+        "updated_at": "2023-08-28T08:35:34.795Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f542c55f-b91d-46fb-b62b-796aa4a2c4e9",
+        "assessment_date": "2023-08-27T08:56:21.132Z",
+        "assessment_details": "Security audit report for web application",
+        "created_at": "2023-08-27T22:14:21.115Z",
+        "updated_at": "2023-08-27T21:24:36.822Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9206d19-c8ea-4c50-b5b4-e05d7f1d7ba3",
+        "assessment_date": "2023-08-27T11:46:27.204Z",
+        "assessment_details": "Penetration testing results for cloud environment",
+        "created_at": "2023-08-27T10:39:34.159Z",
+        "updated_at": "2023-08-28T06:44:01.329Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1808485-443e-4183-9e08-74c497bf31f0",
+        "assessment_date": "2023-08-27T15:47:37.131Z",
+        "assessment_details": "Recommendations for securing data storage",
+        "created_at": "2023-08-27T16:54:58.386Z",
+        "updated_at": "2023-08-27T12:21:53.248Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e55a9f5d-0c53-4d5c-899c-022fd6d4bb7b",
+        "assessment_date": "2023-08-28T03:16:57.830Z",
+        "assessment_details": "Risk assessment findings for mobile app",
+        "created_at": "2023-08-27T19:22:21.423Z",
+        "updated_at": "2023-08-27T15:18:47.499Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "cfff5695-13ee-4e97-ad56-6215d5fa698a",
+        "optimization_date": "2023-08-27T13:29:26.306Z",
+        "optimization_details": "Improvement strategies for database performance",
+        "created_at": "2023-08-27T21:14:56.350Z",
+        "updated_at": "2023-08-27T13:09:51.538Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15500175-f781-42de-b131-0fa865eb464f",
+        "optimization_date": "2023-08-27T22:49:43.100Z",
+        "optimization_details": "Code optimization techniques for web application",
+        "created_at": "2023-08-28T05:37:20.899Z",
+        "updated_at": "2023-08-27T10:10:15.930Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d17e36cb-9a31-4f46-b189-951bc2dade31",
+        "optimization_date": "2023-08-28T08:25:46.007Z",
+        "optimization_details": "Server configuration recommendations for faster response times",
+        "created_at": "2023-08-27T22:23:31.331Z",
+        "updated_at": "2023-08-27T10:15:28.697Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de4a73fa-7db1-4804-9127-e87680dfd9b5",
+        "optimization_date": "2023-08-28T08:43:11.853Z",
+        "optimization_details": "Performance analysis report for mobile app",
+        "created_at": "2023-08-27T20:25:46.434Z",
+        "updated_at": "2023-08-27T09:53:03.597Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b876411-2149-449c-8a6d-27108d9c8e03",
+        "optimization_date": "2023-08-27T16:26:46.609Z",
+        "optimization_details": "Optimization plan for network infrastructure",
+        "created_at": "2023-08-27T17:13:06.428Z",
+        "updated_at": "2023-08-27T18:10:33.421Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "0aee1443-a0b3-45c0-b183-a57e05ec2285",
+        "log_date": "2023-08-27T10:28:26.733Z",
+        "log_details": "Error logs from web server",
+        "created_at": "2023-08-27T09:18:17.984Z",
+        "updated_at": "2023-08-28T00:31:25.335Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c49bebf-9417-4e4b-b880-6f31d16246f9",
+        "log_date": "2023-08-27T12:46:57.665Z",
+        "log_details": "System logs for application performance monitoring",
+        "created_at": "2023-08-27T19:35:33.923Z",
+        "updated_at": "2023-08-27T21:57:03.244Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42fe05ab-8a1f-4b42-9376-21421029878c",
+        "log_date": "2023-08-28T04:46:43.960Z",
+        "log_details": "Network traffic logs for analysis",
+        "created_at": "2023-08-27T15:41:54.927Z",
+        "updated_at": "2023-08-27T14:08:26.703Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87c40e99-4eee-4a9e-976b-357da62fbbff",
+        "log_date": "2023-08-28T03:05:20.278Z",
+        "log_details": "Security event logs from firewall",
+        "created_at": "2023-08-28T06:45:40.959Z",
+        "updated_at": "2023-08-27T20:13:44.883Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f29a3fd1-735b-4f8a-927c-f1d4aacff162",
+        "log_date": "2023-08-27T20:59:40.489Z",
+        "log_details": "Database transaction logs",
+        "created_at": "2023-08-27T20:51:37.318Z",
+        "updated_at": "2023-08-28T03:07:24.981Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "38a03b4f-f32a-41e5-886b-7da5abcef5c3",
+        "assessment_date": "2023-08-27T12:27:41.611Z",
+        "assessment_details": "Data privacy compliance report",
+        "created_at": "2023-08-28T01:58:18.513Z",
+        "updated_at": "2023-08-28T04:06:12.170Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51108d15-bd69-4f2d-bc70-e4f30814e86c",
+        "assessment_date": "2023-08-27T18:44:53.252Z",
+        "assessment_details": "Privacy risk assessment findings",
+        "created_at": "2023-08-27T23:55:26.066Z",
+        "updated_at": "2023-08-27T23:06:18.971Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94b6f6dd-25f1-44aa-b0c8-6db4f3491546",
+        "assessment_date": "2023-08-28T05:24:23.701Z",
+        "assessment_details": "Recommendations for securing sensitive data",
+        "created_at": "2023-08-27T20:07:57.483Z",
+        "updated_at": "2023-08-28T02:09:39.551Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "286180ea-9c57-425f-918c-8764d1a07c54",
+        "assessment_date": "2023-08-27T23:27:50.977Z",
+        "assessment_details": "Privacy impact analysis for new system",
+        "created_at": "2023-08-27T12:11:36.288Z",
+        "updated_at": "2023-08-27T09:34:01.434Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe52c54d-ed2b-4f8e-b8f2-bbe49a9e0e3d",
+        "assessment_date": "2023-08-27T19:27:09.087Z",
+        "assessment_details": "Data anonymization techniques",
+        "created_at": "2023-08-28T03:19:55.480Z",
+        "updated_at": "2023-08-28T06:13:54.604Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "10b0bdd5-8704-4a8c-94bb-0f1c5b9386d8",
+        "email": "Margret_Emmerich@hotmail.com",
+        "firstName": "Giovanny",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25127990",
+        "tenantId": null
+      },
+      {
+        "reference": "c6ce2769-d104-4ed1-a879-f50ff85109d7",
+        "email": "Adrianna_Cormier@yahoo.com",
+        "firstName": "Haylie",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2846833",
+        "tenantId": null
+      },
+      {
+        "reference": "db3991d2-b707-45a4-996e-03e4a6ee8716",
+        "email": "Richie.Franey@hotmail.com",
+        "firstName": "Brody",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96272883",
+        "tenantId": null
+      },
+      {
+        "reference": "125dfcec-26aa-41df-99a7-9b45d6da2e11",
+        "email": "Bryce0@gmail.com",
+        "firstName": "Joanne",
+        "lastName": "Lind",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1196.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3e56b505-91d2-47f9-bbc0-15e1e76b7d7a",
+        "email": "Jefferey.Kutch26@hotmail.com",
+        "firstName": "Miles",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/7.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "9afd91cb-dc14-4aab-a027-c06a44ebeed6",
+        "assessment_date": "2023-08-27T17:31:36.312Z",
+        "assessment_details": "Network vulnerabilities identified",
+        "created_at": "2023-08-27T23:36:18.596Z",
+        "updated_at": "2023-08-27T23:25:59.006Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6396145-23e8-4ad5-a22e-0f1b5f520dd4",
+        "assessment_date": "2023-08-27T11:06:03.819Z",
+        "assessment_details": "Recommendations for improving data security",
+        "created_at": "2023-08-28T00:43:41.940Z",
+        "updated_at": "2023-08-27T18:59:58.505Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a96ecbd-98e9-4653-894b-4f99384375c7",
+        "assessment_date": "2023-08-27T22:00:16.843Z",
+        "assessment_details": "Analysis of access control measures",
+        "created_at": "2023-08-27T09:14:29.028Z",
+        "updated_at": "2023-08-27T08:55:22.363Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09aef1a5-062a-40f6-9fd1-44e592dad87d",
+        "assessment_date": "2023-08-28T01:28:45.860Z",
+        "assessment_details": "Identification of potential threats",
+        "created_at": "2023-08-27T11:01:12.644Z",
+        "updated_at": "2023-08-27T10:46:35.786Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d70885d-ec07-419e-8d68-13a571d0544b",
+        "assessment_date": "2023-08-27T18:28:42.501Z",
+        "assessment_details": "Assessment of encryption protocols",
+        "created_at": "2023-08-28T06:52:16.329Z",
+        "updated_at": "2023-08-27T13:37:01.857Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "748ada27-5301-4674-9daa-447d6579e0d7",
+        "optimization_date": "2023-08-28T01:43:35.680Z",
+        "optimization_details": "Improved database query performance",
+        "created_at": "2023-08-28T02:28:00.902Z",
+        "updated_at": "2023-08-27T08:59:02.547Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4862b7d5-734a-4207-a306-3bac9cdbfb1c",
+        "optimization_date": "2023-08-27T16:51:43.171Z",
+        "optimization_details": "Optimized server response time",
+        "created_at": "2023-08-28T06:22:32.244Z",
+        "updated_at": "2023-08-27T21:14:15.136Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "146be656-acde-4928-8ee3-7911e200ad13",
+        "optimization_date": "2023-08-28T06:59:16.748Z",
+        "optimization_details": "Enhanced application load balancing",
+        "created_at": "2023-08-28T04:59:20.876Z",
+        "updated_at": "2023-08-28T01:44:27.781Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3f0cafe-292d-4347-97f3-15d6ba448b91",
+        "optimization_date": "2023-08-28T00:09:38.650Z",
+        "optimization_details": "Reduced page load time",
+        "created_at": "2023-08-28T07:32:28.136Z",
+        "updated_at": "2023-08-27T23:46:45.703Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80abcbc5-ae2a-4c22-acfe-504ef98e0bcb",
+        "optimization_date": "2023-08-27T21:26:08.243Z",
+        "optimization_details": "Streamlined code execution",
+        "created_at": "2023-08-28T03:19:33.269Z",
+        "updated_at": "2023-08-27T18:04:21.237Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "7b606316-eb76-4bd3-82de-3ecbf0673388",
+        "log_date": "2023-08-28T05:44:53.434Z",
+        "log_details": "Error logs for application XYZ",
+        "created_at": "2023-08-27T15:46:30.848Z",
+        "updated_at": "2023-08-28T07:50:29.700Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3892603-e286-44b9-8ce6-8f22fa9c6378",
+        "log_date": "2023-08-28T08:09:58.722Z",
+        "log_details": "Debug logs for module ABC",
+        "created_at": "2023-08-28T05:32:43.062Z",
+        "updated_at": "2023-08-27T18:12:09.565Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9bc9847-6ccf-46ad-8a94-8b1ffd6b593b",
+        "log_date": "2023-08-27T17:21:14.764Z",
+        "log_details": "Access logs for server XYZ",
+        "created_at": "2023-08-28T04:26:57.635Z",
+        "updated_at": "2023-08-27T22:42:21.814Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "890e1368-e27a-484b-98d8-4b0bf3ea9e71",
+        "log_date": "2023-08-27T22:57:30.307Z",
+        "log_details": "Audit logs for database ABC",
+        "created_at": "2023-08-28T02:08:48.329Z",
+        "updated_at": "2023-08-27T20:29:30.124Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05d044b5-7df1-41a9-bb86-32f14e45336b",
+        "log_date": "2023-08-27T22:02:49.240Z",
+        "log_details": "Security logs for network XYZ",
+        "created_at": "2023-08-27T17:13:53.853Z",
+        "updated_at": "2023-08-27T09:12:15.038Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "b0d74739-02d8-45b4-9d17-aeadc971516e",
+        "assessment_date": "2023-08-27T19:23:22.611Z",
+        "assessment_details": "Evaluation of data handling processes",
+        "created_at": "2023-08-28T03:58:54.145Z",
+        "updated_at": "2023-08-27T09:09:36.159Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d3d50b5-3c24-47a2-bc8e-47028708035d",
+        "assessment_date": "2023-08-28T03:43:26.423Z",
+        "assessment_details": "Identification of privacy risks",
+        "created_at": "2023-08-27T18:06:48.434Z",
+        "updated_at": "2023-08-27T16:04:58.238Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d6643f0-5600-4943-b4d0-6380b265580c",
+        "assessment_date": "2023-08-27T23:20:36.761Z",
+        "assessment_details": "Review of data protection policies",
+        "created_at": "2023-08-27T16:51:03.797Z",
+        "updated_at": "2023-08-27T18:28:06.892Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e877313-45f8-49ef-a950-0ff845ff5074",
+        "assessment_date": "2023-08-27T16:12:22.540Z",
+        "assessment_details": "Assessment of data breach response procedures",
+        "created_at": "2023-08-27T09:48:07.347Z",
+        "updated_at": "2023-08-28T07:17:33.839Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53cfd192-99da-449a-94fd-002fb8255578",
+        "assessment_date": "2023-08-27T11:14:27.826Z",
+        "assessment_details": "Analysis of data anonymization techniques",
+        "created_at": "2023-08-28T00:25:12.747Z",
+        "updated_at": "2023-08-27T09:06:31.893Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4c506132-8d80-43b3-85f3-595239384aa8",
+        "email": "Jamison76@gmail.com",
+        "firstName": "Nathanial",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/342.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ed642bd8-aa12-480f-ac5e-6869bce22ebb",
+        "email": "Florence.Abernathy@yahoo.com",
+        "firstName": "Ethan",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c24d828c-ef28-453a-865a-8010f56dfe58",
+        "email": "Georgianna.Waelchi@hotmail.com",
+        "firstName": "Wyman",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40829502",
+        "tenantId": null
+      },
+      {
+        "reference": "f5c2e93e-52d0-440f-9881-a2c9e022e156",
+        "email": "Arch43@yahoo.com",
+        "firstName": "Lisa",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8492966",
+        "tenantId": null
+      },
+      {
+        "reference": "1410abd1-61c6-4f6b-8e63-0fa529b92d18",
+        "email": "Maida_Gleichner8@gmail.com",
+        "firstName": "Cathy",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86820215",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "security_assessment": [
+      {
+        "id": "47a5a2ff-529b-4443-9315-ee0e7babe90e",
+        "assessment_date": "2023-08-27T19:42:22.064Z",
+        "assessment_details": "Vulnerability identified in network infrastructure",
+        "created_at": "2023-08-27T20:08:07.520Z",
+        "updated_at": "2023-08-27T13:17:16.745Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b677a862-6c1d-413a-b66e-c40ce5059e36",
+        "assessment_date": "2023-08-27T22:56:25.646Z",
+        "assessment_details": "Weak password policy for user accounts",
+        "created_at": "2023-08-28T00:08:00.449Z",
+        "updated_at": "2023-08-27T14:56:37.368Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30f9d6cb-dae4-4b64-8b88-ad002948e7e2",
+        "assessment_date": "2023-08-28T04:03:35.123Z",
+        "assessment_details": "Insufficient access controls for sensitive data",
+        "created_at": "2023-08-28T03:16:52.874Z",
+        "updated_at": "2023-08-27T23:47:44.591Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09f1eade-cb40-46f3-aa78-ba41e5c18cd3",
+        "assessment_date": "2023-08-28T08:23:53.932Z",
+        "assessment_details": "Outdated software version posing security risk",
+        "created_at": "2023-08-28T05:24:04.686Z",
+        "updated_at": "2023-08-27T18:01:12.865Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c05ffe9-c9dc-4a0a-85b4-8956a5c28f20",
+        "assessment_date": "2023-08-28T07:54:29.188Z",
+        "assessment_details": "Lack of encryption in data transmission",
+        "created_at": "2023-08-28T06:11:27.575Z",
+        "updated_at": "2023-08-27T17:49:51.240Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_optimization": [
+      {
+        "id": "d0d883e7-eec7-49db-a3b9-56582c33544b",
+        "optimization_date": "2023-08-27T10:57:57.043Z",
+        "optimization_details": "Database query optimization for faster response time",
+        "created_at": "2023-08-28T04:33:39.619Z",
+        "updated_at": "2023-08-27T16:52:50.497Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80b95e47-d33e-41bf-b4b5-3af3ed75d2db",
+        "optimization_date": "2023-08-27T23:06:47.856Z",
+        "optimization_details": "Caching mechanism implementation to reduce server load",
+        "created_at": "2023-08-27T20:07:36.824Z",
+        "updated_at": "2023-08-27T16:29:37.765Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35f78545-9e8b-4c53-904e-1b817a3c8796",
+        "optimization_date": "2023-08-28T08:26:43.669Z",
+        "optimization_details": "Code refactoring to improve efficiency",
+        "created_at": "2023-08-27T19:48:51.738Z",
+        "updated_at": "2023-08-27T12:00:39.081Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "069f4ee3-8bca-4a0a-9b40-81048ae47db7",
+        "optimization_date": "2023-08-27T13:13:16.063Z",
+        "optimization_details": "Parallel processing for concurrent tasks",
+        "created_at": "2023-08-28T05:41:44.885Z",
+        "updated_at": "2023-08-27T10:03:58.024Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35a2c300-ffe9-4c98-bf76-7ac9ef82759e",
+        "optimization_date": "2023-08-27T16:01:49.703Z",
+        "optimization_details": "Resource allocation optimization for better performance",
+        "created_at": "2023-08-27T21:51:49.342Z",
+        "updated_at": "2023-08-28T01:37:19.107Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "log_analysis": [
+      {
+        "id": "ca1d3801-52df-4d16-bae7-9300fb8f8648",
+        "log_date": "2023-08-27T19:08:34.714Z",
+        "log_details": "Error log indicating database connection failure",
+        "created_at": "2023-08-27T18:53:32.080Z",
+        "updated_at": "2023-08-27T13:29:49.192Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ccb24948-641b-455a-a06b-1dc8574ee3a0",
+        "log_date": "2023-08-27T14:00:55.017Z",
+        "log_details": "Warning log for high CPU usage",
+        "created_at": "2023-08-28T06:19:53.314Z",
+        "updated_at": "2023-08-27T11:02:51.326Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5eb5af6-705e-4451-8787-a9d91d03d24d",
+        "log_date": "2023-08-27T19:25:10.578Z",
+        "log_details": "Information log capturing user login events",
+        "created_at": "2023-08-28T03:30:55.501Z",
+        "updated_at": "2023-08-27T12:05:36.109Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45dfc0f8-b433-4d6b-8328-88b3164489ea",
+        "log_date": "2023-08-27T13:38:01.152Z",
+        "log_details": "Debug log tracking API request/response",
+        "created_at": "2023-08-27T22:29:34.591Z",
+        "updated_at": "2023-08-28T08:27:02.547Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fd77a44-8b40-40be-80e4-c788129952dd",
+        "log_date": "2023-08-27T13:54:20.025Z",
+        "log_details": "Critical log indicating system crash",
+        "created_at": "2023-08-28T03:34:52.455Z",
+        "updated_at": "2023-08-27T08:59:45.419Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "data_privacy_assessment": [
+      {
+        "id": "08674bec-2a5c-4554-8d0e-0ec245700c2c",
+        "assessment_date": "2023-08-27T17:16:43.893Z",
+        "assessment_details": "Unauthorized access to personal data",
+        "created_at": "2023-08-27T23:40:07.968Z",
+        "updated_at": "2023-08-27T09:22:10.269Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df22cebb-932c-438b-93e1-917cfd1d4777",
+        "assessment_date": "2023-08-27T23:59:19.378Z",
+        "assessment_details": "Data breach due to weak encryption",
+        "created_at": "2023-08-27T23:52:58.277Z",
+        "updated_at": "2023-08-28T03:45:27.642Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97d503d3-6329-4385-8ff3-2bfecc9d75b0",
+        "assessment_date": "2023-08-27T23:33:46.645Z",
+        "assessment_details": "Inadequate data retention policy",
+        "created_at": "2023-08-28T08:16:57.165Z",
+        "updated_at": "2023-08-27T14:00:55.768Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97db5760-0402-468f-a1f7-e2e346627d83",
+        "assessment_date": "2023-08-28T02:00:13.685Z",
+        "assessment_details": "Non-compliance with data protection regulations",
+        "created_at": "2023-08-27T13:05:55.404Z",
+        "updated_at": "2023-08-28T01:37:45.025Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "842dbc40-fc4a-4539-be6b-f70a899efa8c",
+        "assessment_date": "2023-08-27T23:46:11.579Z",
+        "assessment_details": "Insufficient user consent for data processing",
+        "created_at": "2023-08-28T08:41:59.155Z",
+        "updated_at": "2023-08-27T12:48:32.797Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1cbe7957-4ae5-4b92-8521-a2e4e7f784fe",
+        "email": "Bill.Hyatt@gmail.com",
+        "firstName": "Jonathan",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/225.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "74858ab7-744a-406c-bd32-1c53c207cddc",
+        "email": "Lucas_Christiansen78@yahoo.com",
+        "firstName": "Mable",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b87982c0-c1a8-449a-97f7-e1aca99c95e9",
+        "email": "Vince_Luettgen@yahoo.com",
+        "firstName": "Marge",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/709.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a3307752-0ad6-458c-8fa5-ac904bc48554",
+        "email": "Urban.Feil34@hotmail.com",
+        "firstName": "Aubrey",
+        "lastName": "Sauer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19036972",
+        "tenantId": null
+      },
+      {
+        "reference": "8fdc66ed-5833-4a7e-ad5d-3d1c015b9c8f",
+        "email": "Ronaldo.Pfeffer@hotmail.com",
+        "firstName": "Eddie",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/677.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
